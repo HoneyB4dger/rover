@@ -1,14 +1,16 @@
-Nearly empty javascript project with a failing test!
+Mars Rover Task
 ===
 
-To install the required modules:
 
-```
-$ yarn install
-```
+## Deployment
+This application is buildt using NodeJs and NPM. To deploy locally:
+* Clone the repository `https://github.com/HoneyB4dger/rover.git`
+* `cd rover`
+* `npm install`
+* `npm start`
+* Application is now running. To use it, start entering the Mars 
+coordinates first then each rover you would like to add. To get output, 
+exit the application
 
-To run the (failing) test:
-
-```
-$ yarn test
-```
+## Testing
+* To test `npm test`
